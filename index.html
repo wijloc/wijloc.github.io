@@ -11,7 +11,9 @@
             margin: 0;
             padding: 0;
             display: flex;
+            flex-direction: column;
             justify-content: center;
+            row-gap: 10px;
             align-items: center;
             height: 100vh;
             background-color: #f4f4f9;
@@ -52,6 +54,15 @@
         .social-links a:hover {
             color: #333333;
         }
+        .flag-link {
+            text-decoration: none;
+            color: #666666;
+            font-size: 24px;
+            transition: color 0.3s;
+        }
+        .flag-link:hover {
+            color: #333333;
+        }
     </style>
 </head>
 <body>
@@ -64,6 +75,9 @@
             <a href="https://www.linkedin.com/in/willianjpo/" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="https://www.goodreads.com/user/show/161164673-willian-oliveira" target="_blank"><i class="fab fa-goodreads"></i></a>
         </div>
+    </div>
+    <div class="container">
+        <a class="flag-link" href="./flags/">bora jogar? 🇧🇷🇮🇹🇺🇸🇩🇪🇻🇦 </a>
     </div>
 </body>
 </html>
