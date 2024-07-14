@@ -194,7 +194,8 @@ const flags = [
   { "country": "Venezuela", "countryEn": "Venezuela", "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" },
   { "country": "Vietnã", "countryEn": "Vietnam", "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" },
   { "country": "Zâmbia", "countryEn": "Zambia", "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg" },
-  { "country": "Zimbábue", "countryEn": "Zimbabwe", "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" }
+  { "country": "Zimbábue", "countryEn": "Zimbabwe", "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" },
+  { "country": "Guiana Francesa", "countryEn": "French Guiana", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/2560px-Flag_of_French_Guiana.svg.png"}
 ];
 
 let currentQuestion = 0;
