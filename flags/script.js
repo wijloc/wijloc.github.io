@@ -190,7 +190,7 @@ const flags = [
   { "country": "Uruguai", "countryEn": "Uruguay", "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" },
   { "country": "Uzbequistão", "countryEn": "Uzbekistan", "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" },
   { "country": "Vanuatu", "countryEn": "Vanuatu", "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg" },
-  { "country": "Vaticano", "countryEn": "Vatican City", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg/1024px-Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg.png" },
+  { "country": "Vaticano", "countryEn": "Vatican City", "src": "https://pt.wikipedia.org/wiki/Bandeira_do_Vaticano#/media/Ficheiro:Flag_of_Vatican_City_(2001%E2%80%932023).svg" },
   { "country": "Venezuela", "countryEn": "Venezuela", "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" },
   { "country": "Vietnã", "countryEn": "Vietnam", "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" },
   { "country": "Zâmbia", "countryEn": "Zambia", "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg" },
